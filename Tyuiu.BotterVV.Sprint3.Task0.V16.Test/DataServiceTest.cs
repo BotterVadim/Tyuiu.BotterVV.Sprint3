@@ -17,7 +17,7 @@ namespace Tyuiu.BotterVV.Sprint3.Task0.V16.Test
 
             double res = ds.GetMultiplySeries(startValue, stopValue);
 
-            double wait = 1;
+            double wait = 2;
 
             Assert.AreEqual(wait, res);
         }

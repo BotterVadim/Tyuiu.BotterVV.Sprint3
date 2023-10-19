@@ -28,7 +28,7 @@ namespace Tyuiu.BotterVV.Sprint3.Task0.V16
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             int startValue = 1;
-            int stopValue = 111;
+            int stopValue = 11;
             Console.WriteLine("Старт шага = " + startValue);
             Console.WriteLine("Конец шага = " + stopValue);
             Console.WriteLine("***************************************************************************");

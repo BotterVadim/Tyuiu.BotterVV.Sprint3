@@ -17,7 +17,7 @@ namespace Tyuiu.BotterVV.Sprint3.Task0.V16.Lib
             {
                 multiplySeries = multiplySeries * (Math.Pow((1 / i), (-3)));
             }
-            return Math.Round(multiplySeries);
+            return Math.Round(multiplySeries, 3);
         }
     }
 }
