@@ -35,7 +35,7 @@ namespace Tyuiu.BotterVV.Sprint3.Task0.V16
             Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
             Console.WriteLine("***************************************************************************");
 
-            Console.WriteLine("Сумма ряда = " + ds.GetMultiplySeries(startValue, stopValue));
+            Console.WriteLine("Произведение ряда = " + ds.GetMultiplySeries(startValue, stopValue));
             Console.ReadKey();
         }
     }
